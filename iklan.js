@@ -1,0 +1,1 @@
+<iframe frameborder="0" scrolling="no" width="728" height="90" src="//uprimp.com/bnr.php?section=General&pub=134114&format=300x250&ga=g"></iframe>
